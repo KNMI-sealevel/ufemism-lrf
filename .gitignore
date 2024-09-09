@@ -1,0 +1,5 @@
+output/*
+data/*
+input/larmip_spinup/*
+*.sh
+.DS_Store
